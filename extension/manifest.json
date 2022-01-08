@@ -1,0 +1,16 @@
+{
+    "name": "YoutubeCaptionInjector2",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.youtube.com/watch?v=*"
+            ],
+            "js": [
+                "index.js"
+            ],
+            "run_at": "document_start"
+        }
+    ]
+}

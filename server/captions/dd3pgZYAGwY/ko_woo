@@ -1,0 +1,860 @@
+{
+  "wireMagic": "pb3",
+  "pens": [
+    {}
+  ],
+  "wsWinStyles": [
+    {}
+  ],
+  "wpWinPositions": [
+    {}
+  ],
+  "events": [
+    {
+      "tStartMs": 898,
+      "dDurationMs": 1599,
+      "segs": [
+        {
+          "utf8": "Sing along 빠빠라 빠빠"
+        }
+      ]
+    },
+    {
+      "tStartMs": 2497,
+      "dDurationMs": 1739,
+      "segs": [
+        {
+          "utf8": "Back to the time 빠빠라 빠빠"
+        }
+      ]
+    },
+    {
+      "tStartMs": 4236,
+      "dDurationMs": 1693,
+      "segs": [
+        {
+          "utf8": "Swing along 빠빠라 빠빠"
+        }
+      ]
+    },
+    {
+      "tStartMs": 5929,
+      "dDurationMs": 1728,
+      "segs": [
+        {
+          "utf8": "place to be 빠빠라 빠라빠"
+        }
+      ]
+    },
+    {
+      "tStartMs": 7657,
+      "dDurationMs": 1839,
+      "segs": [
+        {
+          "utf8": "sing along 빠빠라 빠빠"
+        }
+      ]
+    },
+    {
+      "tStartMs": 9496,
+      "dDurationMs": 1553,
+      "segs": [
+        {
+          "utf8": "Back to the time 빠빠라 빠빠"
+        }
+      ]
+    },
+    {
+      "tStartMs": 11132,
+      "dDurationMs": 1766,
+      "segs": [
+        {
+          "utf8": "swing along 빠빠라 빠빠"
+        }
+      ]
+    },
+    {
+      "tStartMs": 12898,
+      "dDurationMs": 1852,
+      "segs": [
+        {
+          "utf8": "place to be 빠빠라 빠라빠"
+        }
+      ]
+    },
+    {
+      "tStartMs": 14750,
+      "dDurationMs": 3153,
+      "segs": [
+        {
+          "utf8": "매력전인 날개를 달고 등!장!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 18059,
+      "dDurationMs": 3688,
+      "segs": [
+        {
+          "utf8": "무적에 멋진 충격적인 자극적인 소!녀!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 21747,
+      "dDurationMs": 3500,
+      "segs": [
+        {
+          "utf8": "누구나 자연스럽게 돌고 신도 춤추기 시작해"
+        }
+      ]
+    },
+    {
+      "tStartMs": 25361,
+      "dDurationMs": 3353,
+      "segs": [
+        {
+          "utf8": "흔들리는 공연장 타오르는 감정 봐봐 아니나 다를까 peace\u0026joy! "
+        }
+      ]
+    },
+    {
+      "tStartMs": 28856,
+      "dDurationMs": 3333,
+      "segs": [
+        {
+          "utf8": "우리는 때때로 일상의 틈에서 방황할때가 있잖아?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 32189,
+      "dDurationMs": 3500,
+      "segs": [
+        {
+          "utf8": "그럴 때 확 눈앞에 살짝 비춰주는 빛!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 35689,
+      "dDurationMs": 3817,
+      "segs": [
+        {
+          "utf8": "시시한 소재만 dig해버리면 재미없어"
+        }
+      ]
+    },
+    {
+      "tStartMs": 39506,
+      "dDurationMs": 3680,
+      "segs": [
+        {
+          "utf8": "그런 구멍에 빠져 헤어나오지 못했던 어제까지의 우리"
+        }
+      ]
+    },
+    {
+      "tStartMs": 43186,
+      "dDurationMs": 3490,
+      "segs": [
+        {
+          "utf8": "발톱 따위 없어도 괜찮아 하늘 따위 날지 못해도 괜찮아 "
+        }
+      ]
+    },
+    {
+      "tStartMs": 46676,
+      "dDurationMs": 4705,
+      "segs": [
+        {
+          "utf8": "우리들의 파티가 있다면 그래 무엇이든 될 수 있어"
+        }
+      ]
+    },
+    {
+      "tStartMs": 51481,
+      "dDurationMs": 770,
+      "segs": [
+        {
+          "utf8": "Come on！"
+        }
+      ]
+    },
+    {
+      "tStartMs": 52251,
+      "dDurationMs": 3338,
+      "segs": [
+        {
+          "utf8": "magic! 네가 묘사하는 마법은"
+        }
+      ]
+    },
+    {
+      "tStartMs": 55589,
+      "dDurationMs": 3490,
+      "segs": [
+        {
+          "utf8": "buddy! 나를 활발하게 해"
+        }
+      ]
+    },
+    {
+      "tStartMs": 59079,
+      "dDurationMs": 3395,
+      "segs": [
+        {
+          "utf8": "praying! 그건 작은 거야"
+        }
+      ]
+    },
+    {
+      "tStartMs": 62531,
+      "dDurationMs": 3609,
+      "segs": [
+        {
+          "utf8": "그렇지만 세계에 꽃을 피우자"
+        }
+      ]
+    },
+    {
+      "tStartMs": 66197,
+      "dDurationMs": 3210,
+      "segs": [
+        {
+          "utf8": "lighten! 어둠을 앞질러 가"
+        }
+      ]
+    },
+    {
+      "tStartMs": 69578,
+      "dDurationMs": 3865,
+      "segs": [
+        {
+          "utf8": "supreme! 사랑이야말로 모든 것"
+        }
+      ]
+    },
+    {
+      "tStartMs": 73443,
+      "dDurationMs": 3310,
+      "segs": [
+        {
+          "utf8": "받는 모든것이 메시지 처럼"
+        }
+      ]
+    },
+    {
+      "tStartMs": 76923,
+      "dDurationMs": 3637,
+      "segs": [
+        {
+          "utf8": "계속 비춰줘 마지막까지"
+        }
+      ]
+    },
+    {
+      "tStartMs": 80829,
+      "dDurationMs": 3509,
+      "segs": [
+        {
+          "utf8": "마주잡은 잡은 손으로 부터"
+        }
+      ]
+    },
+    {
+      "tStartMs": 84338,
+      "dDurationMs": 3253,
+      "segs": [
+        {
+          "utf8": "전해지는 거야 네가 좋아"
+        }
+      ]
+    },
+    {
+      "tStartMs": 87591,
+      "dDurationMs": 1616,
+      "segs": [
+        {
+          "utf8": "Sing along 빠빠라 빠빠"
+        }
+      ]
+    },
+    {
+      "tStartMs": 89207,
+      "dDurationMs": 1586,
+      "segs": [
+        {
+          "utf8": "Back to the time 빠빠라 빠라빠"
+        }
+      ]
+    },
+    {
+      "tStartMs": 90879,
+      "dDurationMs": 1868,
+      "segs": [
+        {
+          "utf8": "Swing along 빠빠라 빠빠"
+        }
+      ]
+    },
+    {
+      "tStartMs": 92832,
+      "dDurationMs": 2035,
+      "segs": [
+        {
+          "utf8": "place to be 빠빠라 빠라빠"
+        }
+      ]
+    },
+    {
+      "tStartMs": 94867,
+      "dDurationMs": 3196,
+      "segs": [
+        {
+          "utf8": "blooming!한 창문에서 전세계로 ride on! "
+        }
+      ]
+    },
+    {
+      "tStartMs": 98063,
+      "dDurationMs": 3490,
+      "segs": [
+        {
+          "utf8": "사적인 시적 스토리 영화적인 illision!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 101652,
+      "dDurationMs": 2071,
+      "segs": [
+        {
+          "utf8": "...이랄까나, 익숙하지 않은 척이란게 "
+        }
+      ]
+    },
+    {
+      "tStartMs": 103723,
+      "dDurationMs": 1580,
+      "segs": [
+        {
+          "utf8": "1000번 해내면 make it mine! "
+        }
+      ]
+    },
+    {
+      "tStartMs": 105303,
+      "dDurationMs": 2883,
+      "segs": [
+        {
+          "utf8": "그건 본능? 거부반응? no control?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 108186,
+      "dDurationMs": 657,
+      "segs": [
+        {
+          "utf8": "그럴리 없어! no!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 108914,
+      "dDurationMs": 3353,
+      "segs": [
+        {
+          "utf8": "언젠가 상상도 하지 못한 일로 멈춰 설 수도 있지. "
+        }
+      ]
+    },
+    {
+      "tStartMs": 112267,
+      "dDurationMs": 3780,
+      "segs": [
+        {
+          "utf8": "그럴 땐 기억해내 네안의 확실히 있는 빛"
+        }
+      ]
+    },
+    {
+      "tStartMs": 116047,
+      "dDurationMs": 3533,
+      "segs": [
+        {
+          "utf8": "알 수 없는 미래만 두려워하면 나아갈 수 없어"
+        }
+      ]
+    },
+    {
+      "tStartMs": 119580,
+      "dDurationMs": 3420,
+      "segs": [
+        {
+          "utf8": "미지의 것을 인정하는 것 내일을 여는 열쇠겠지"
+        }
+      ]
+    },
+    {
+      "tStartMs": 123000,
+      "dDurationMs": 3167,
+      "segs": [
+        {
+          "utf8": "약속은 없어도 돼 1mm의 자유만 있으면 돼"
+        }
+      ]
+    },
+    {
+      "tStartMs": 126167,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "사랑은 어떠한 형태도 될 수 있어"
+        }
+      ]
+    },
+    {
+      "tStartMs": 128167,
+      "dDurationMs": 3424,
+      "segs": [
+        {
+          "utf8": "그래 어디든지 갈 수 있어"
+        }
+      ]
+    },
+    {
+      "tStartMs": 131591,
+      "dDurationMs": 500,
+      "segs": [
+        {
+          "utf8": "come on！"
+        }
+      ]
+    },
+    {
+      "tStartMs": 132091,
+      "dDurationMs": 3723,
+      "segs": [
+        {
+          "utf8": "lovely! 언젠가 마법을 풀어서"
+        }
+      ]
+    },
+    {
+      "tStartMs": 135814,
+      "dDurationMs": 2792,
+      "segs": [
+        {
+          "utf8": "bye bye! 모든걸 잊어도"
+        }
+      ]
+    },
+    {
+      "tStartMs": 138967,
+      "dDurationMs": 2977,
+      "segs": [
+        {
+          "utf8": "praying! 그치만 바란 것 처럼"
+        }
+      ]
+    },
+    {
+      "tStartMs": 142414,
+      "dDurationMs": 3718,
+      "segs": [
+        {
+          "utf8": "왜인지 나를 안심시켜"
+        }
+      ]
+    },
+    {
+      "tStartMs": 146132,
+      "dDurationMs": 3741,
+      "segs": [
+        {
+          "utf8": "lighten! 어둠을 앞질러 가"
+        }
+      ]
+    },
+    {
+      "tStartMs": 149873,
+      "dDurationMs": 3000,
+      "segs": [
+        {
+          "utf8": "supreme! 사랑이야말로 모든 것 "
+        }
+      ]
+    },
+    {
+      "tStartMs": 152987,
+      "dDurationMs": 3254,
+      "segs": [
+        {
+          "utf8": "받는 모든것이 메시지 처럼"
+        }
+      ]
+    },
+    {
+      "tStartMs": 156495,
+      "dDurationMs": 4131,
+      "segs": [
+        {
+          "utf8": "계속 비춰줘 영원히"
+        }
+      ]
+    },
+    {
+      "tStartMs": 160626,
+      "dDurationMs": 2324,
+      "segs": [
+        {
+          "utf8": "마지막 까지"
+        }
+      ]
+    },
+    {
+      "tStartMs": 163201,
+      "dDurationMs": 1602,
+      "segs": [
+        {
+          "utf8": "마지막 까지"
+        }
+      ]
+    },
+    {
+      "tStartMs": 164803,
+      "dDurationMs": 6955,
+      "segs": [
+        {
+          "utf8": "자 노래하자! 찬송가를 어떤 시련에도 포기하지 않아"
+        }
+      ]
+    },
+    {
+      "tStartMs": 171758,
+      "dDurationMs": 7491,
+      "segs": [
+        {
+          "utf8": "자 장식하자! 꽃다발을 눈물은 희생따위가 아니야"
+        }
+      ]
+    },
+    {
+      "tStartMs": 179249,
+      "dDurationMs": 6683,
+      "segs": [
+        {
+          "utf8": "자 노래하자! 찬송가를 어떤 곤란에도 다시 살아나"
+        }
+      ]
+    },
+    {
+      "tStartMs": 185932,
+      "dDurationMs": 7052,
+      "segs": [
+        {
+          "utf8": "자 장식하자! 꽃다발을 눈물 자국에는 빛이 머물러"
+        }
+      ]
+    },
+    {
+      "tStartMs": 192984,
+      "dDurationMs": 600,
+      "segs": [
+        {
+          "utf8": "breakin’！"
+        }
+      ]
+    },
+    {
+      "tStartMs": 193584,
+      "dDurationMs": 1546,
+      "segs": [
+        {
+          "utf8": "자 몸은 좀 어때?"
+        }
+      ]
+    },
+    {
+      "tStartMs": 195130,
+      "dDurationMs": 2004,
+      "segs": [
+        {
+          "utf8": "모두 있는 힘껏 쥐어짜는거야"
+        }
+      ]
+    },
+    {
+      "tStartMs": 197134,
+      "dDurationMs": 1742,
+      "segs": [
+        {
+          "utf8": "shakin'！ (shakin'！)　steppin'！ (steppin'！)"
+        }
+      ]
+    },
+    {
+      "tStartMs": 198876,
+      "dDurationMs": 1787,
+      "segs": [
+        {
+          "utf8": "이건 4분30초의 wonderful world!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 200663,
+      "dDurationMs": 1719,
+      "segs": [
+        {
+          "utf8": "I've got to get feeling the light"
+        }
+      ]
+    },
+    {
+      "tStartMs": 202382,
+      "dDurationMs": 1546,
+      "segs": [
+        {
+          "utf8": "I've got to get into the dance"
+        }
+      ]
+    },
+    {
+      "tStartMs": 204000,
+      "dDurationMs": 1810,
+      "segs": [
+        {
+          "utf8": "그럼 조금더 같이 달리자"
+        }
+      ]
+    },
+    {
+      "tStartMs": 205810,
+      "dDurationMs": 2000,
+      "segs": [
+        {
+          "utf8": "땀도 눈물도 뿌리치고."
+        }
+      ]
+    },
+    {
+      "tStartMs": 207810,
+      "dDurationMs": 1699,
+      "segs": [
+        {
+          "utf8": "singin'！ (singin'！）　swingin'！（swingin'！）"
+        }
+      ]
+    },
+    {
+      "tStartMs": 209509,
+      "dDurationMs": 1644,
+      "segs": [
+        {
+          "utf8": "사랑이 넘치는beautiful world!"
+        }
+      ]
+    },
+    {
+      "tStartMs": 211267,
+      "dDurationMs": 1546,
+      "segs": [
+        {
+          "utf8": "I've got to get feeling the light"
+        }
+      ]
+    },
+    {
+      "tStartMs": 212941,
+      "dDurationMs": 1801,
+      "segs": [
+        {
+          "utf8": "I've got to get into the dance"
+        }
+      ]
+    },
+    {
+      "tStartMs": 218390,
+      "dDurationMs": 500,
+      "segs": [
+        {
+          "utf8": "3,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 218890,
+      "dDurationMs": 500,
+      "segs": [
+        {
+          "utf8": "2,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 219390,
+      "dDurationMs": 500,
+      "segs": [
+        {
+          "utf8": "1,"
+        }
+      ]
+    },
+    {
+      "tStartMs": 219890,
+      "dDurationMs": 500,
+      "segs": [
+        {
+          "utf8": "come on！"
+        }
+      ]
+    },
+    {
+      "tStartMs": 220390,
+      "dDurationMs": 3424,
+      "segs": [
+        {
+          "utf8": "magic! 네가 묘사하는 마법은"
+        }
+      ]
+    },
+    {
+      "tStartMs": 223814,
+      "dDurationMs": 2976,
+      "segs": [
+        {
+          "utf8": "buddy! 나를 활발하게 해"
+        }
+      ]
+    },
+    {
+      "tStartMs": 226790,
+      "dDurationMs": 3779,
+      "segs": [
+        {
+          "utf8": "praying! 그건 작은 거야"
+        }
+      ]
+    },
+    {
+      "tStartMs": 230569,
+      "dDurationMs": 3846,
+      "segs": [
+        {
+          "utf8": "그렇지만 세계에 꽃을 피우자"
+        }
+      ]
+    },
+    {
+      "tStartMs": 234415,
+      "dDurationMs": 3165,
+      "segs": [
+        {
+          "utf8": "lighten! 어둠을 앞질러 가"
+        }
+      ]
+    },
+    {
+      "tStartMs": 237580,
+      "dDurationMs": 3515,
+      "segs": [
+        {
+          "utf8": "supreme! 사랑이야말로 모든 것 "
+        }
+      ]
+    },
+    {
+      "tStartMs": 241095,
+      "dDurationMs": 3860,
+      "segs": [
+        {
+          "utf8": "살아있는 모든것이 메시지처럼 "
+        }
+      ]
+    },
+    {
+      "tStartMs": 244955,
+      "dDurationMs": 5318,
+      "segs": [
+        {
+          "utf8": "계속 비춰줘 마지막까지 미래를 보여줘"
+        }
+      ]
+    },
+    {
+      "tStartMs": 250273,
+      "dDurationMs": 3324,
+      "segs": [
+        {
+          "utf8": "마주잡은 잡은 손으로 부터"
+        }
+      ]
+    },
+    {
+      "tStartMs": 253753,
+      "dDurationMs": 3708,
+      "segs": [
+        {
+          "utf8": "전해지는 거야 네가 좋아"
+        }
+      ]
+    },
+    {
+      "tStartMs": 257461,
+      "dDurationMs": 1623,
+      "segs": [
+        {
+          "utf8": "sing along 빠빠라빠빠"
+        }
+      ]
+    },
+    {
+      "tStartMs": 259084,
+      "dDurationMs": 1650,
+      "segs": [
+        {
+          "utf8": "back to the time 빠빠라빠라빠"
+        }
+      ]
+    },
+    {
+      "tStartMs": 260734,
+      "dDurationMs": 1759,
+      "segs": [
+        {
+          "utf8": "swing along 빠빠라빠빠"
+        }
+      ]
+    },
+    {
+      "tStartMs": 262579,
+      "dDurationMs": 1729,
+      "segs": [
+        {
+          "utf8": "place to be 빠빠라빠라빠"
+        }
+      ]
+    },
+    {
+      "tStartMs": 265251,
+      "dDurationMs": 5897,
+      "segs": [
+        {
+          "utf8": "전해져 그 따뜻함 떨리는 더할 나위 없는 사랑"
+        }
+      ]
+    },
+    {
+      "tStartMs": 271943,
+      "dDurationMs": 7107,
+      "segs": [
+        {
+          "utf8": "전해져 그 따뜻함 떨리는 더할 나위 없는 사랑"
+        }
+      ]
+    }
+  ]
+}
