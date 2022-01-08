@@ -17,7 +17,7 @@ def captions(id):
     captions_path = join("server", "captions", id)
     if(isdir(captions_path)):
         return jsonify([*map(lambda wa: {
-            "baseUrl": f"http://127.0.0.1:5000/api/caption/{id}/{wa}",
+            "baseUrl": f"http://127.0.0.1:5050/api/caption/{id}/{wa}",
             "name": {
                 "simpleText": f"{langMap.get(wa.split('_')[0], wa.split('_')[0])} {''.join(wa.split('_')[1:])}"
             },
@@ -38,4 +38,4 @@ def caption(id, capId):
         abort(404)
 
 
-app.run()
+app.run(port=5050)

@@ -20,9 +20,9 @@ try {
     const videoId = ${name2}.playerResponse.videoDetails.videoId;
     const pctr = ${name1}.playerCaptionsTracklistRenderer;
 
-    // const captionData = await fetch("http://127.0.0.1:5000/api/captions/"+videoId).then(res=>res.json());
+    // const captionData = await fetch("http://127.0.0.1:5050/api/captions/"+videoId).then(res=>res.json());
     let xhr = new XMLHttpRequest();
-          xhr.open("GET", "http://127.0.0.1:5000/api/captions/"+videoId, false);
+          xhr.open("GET", "http://127.0.0.1:5050/api/captions/"+videoId, false);
           xhr.send(null);
           const captionData = JSON.parse(xhr.responseText);
     pctr.audioTracks[0].captionTrackIndices.push(...new Array(captionData.length).fill(pctr.captionTracks.length).map((a,b)=>a+b));
